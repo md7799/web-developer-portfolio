@@ -123,6 +123,7 @@ nav{
         .resume-container{
             display: flex;
             gap: 50px;
+            margin: 40px;
         }
         .resume-item-institute, .resume-item-description{
             color: #757575;
@@ -167,4 +168,4 @@ nav{
         border: 0;
         width: 100%;
       }
-     
+      
